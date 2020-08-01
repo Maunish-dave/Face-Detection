@@ -8,3 +8,8 @@ Requirements<br/>
 2. pytorch<br/>
 3. numpy<br/>
 4. PIL<br/>
+
+Just copy the code and run.<br/>
+python face_detection.py
+
+**NOte**: your computer must be connected to a webcam
